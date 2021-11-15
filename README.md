@@ -1,7 +1,15 @@
-# mini-project-C-Sharp-WPF
-i was do this program with partner in our studies.
-The program is a system for coordinating vacations between clients and hosts.
-client insert guest request and the system suitable for him hosting units.
-for all suitable hosting units the system create order.
-the owner of hosting units entered to the system and decides to wich order cofirm.
-the system is not done. 21/01/2020
+# C# (.NET) project
+
+System for connecting between clients to vacation unit owners.
+
+UI - WPF.
+DB - XML files.
+Architecture - Three-Layers. UI, BL, DAL.
+Design Pattens - Singelton, Fctory Method, Iterator.
+More technologics - LinqToXML, XmlSerializer, Thread + Backgroundworker, Attribute.
+
+This was my first project!
+As I'm proud of him I also do not forget that he was the first and since then I have improved a lot.
+
+
+The project presented a challenge of teamwork on the one hand and on the other hand many searches for online study materials.
