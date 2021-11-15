@@ -2,7 +2,7 @@
 
 System for connecting between clients to vacation unit owners.
 
-UI - WPF.\n
+UI - WPF.
 DB - XML files.
 Architecture - Three-Layers. UI, BL, DAL.
 Design Pattens - Singelton, Fctory Method, Iterator.
